@@ -1,0 +1,9 @@
+product_id,product_name,category,sales
+101,Laptop,Electronics,150000
+102,Mobile,Electronics,95000
+103,TV,Electronics,120000
+104,Chair,Furniture,30000
+105,Table,Furniture,45000
+106,Sofa,Furniture,80000
+107,Headphones,Electronics,25000
+108,Bed,Furniture,90000
